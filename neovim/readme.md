@@ -1,5 +1,8 @@
 links:
 
+<https://github.com/neovim/neovim/releases/latest/download/nvim-win64.msi>
+config path: Local/nvim
+
 <https://github.com/LazyVim/LazyVim>
 
 config path: Local/nvim/pack/nvim/start/
