@@ -1,4 +1,5 @@
 links:
+
 <https://github.com/LazyVim/LazyVim>
 
 config path: Local/nvim/pack/nvim/start/
